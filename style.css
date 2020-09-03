@@ -321,6 +321,8 @@ h2 {
     font-weight: 900;
 }
 
+input:focus { font-size: 8px; }
+
 
 
 
